@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Free-CRM-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Free-CRM-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Free-CRM-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Free-CRM-Software?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Free-CRM-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Free-CRM-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Free-CRM-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Free-CRM-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -81,7 +81,7 @@ The table below catalogs premier cloud-hosted CRM solutions offering genuine **f
 
 ## 💻 Open-Source & Self-Hosted CRM Solutions
 
-Below is the definitive catalog of self-hosted open-source CRM software packages. All repositories have been validated, provide accessible source code, and are **strictly sorted descending by GitHub star count**. Beside each project name is an interactive social star badge linking directly to that project's stargazers community.
+Below is the definitive catalog of self-hosted open-source CRM software packages. All repositories have been validated, provide accessible source code, and are **strictly sorted descending by GitHub Stars_Count**. Beside each project name is an interactive social Stars_Badge linking directly to that project's stargazers community.
 
 | 📦 Repository | ⭐ GitHub Popularity | 📜 License | 🛠️ Technology Stack | 💡 Primary Use Case |
 |:---|:---|:---|:---|:---|
@@ -269,7 +269,7 @@ Contributions are warmly welcomed! If you have built or discovered an awesome fr
 1. Check that the project is actively maintained (releases or commits within the last 12 months).
 2. For open-source additions, ensure the source code is public and carries an recognized open-source license.
 3. For SaaS additions, ensure it provides an authentic forever-free plan or transparent trial.
-4. Follow the existing tabular structure, including stack, license, and star badges.
+4. Follow the existing tabular structure, including stack, license, and Stars_Badges.
 5. Explore other curated lists at [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
 
 ---
