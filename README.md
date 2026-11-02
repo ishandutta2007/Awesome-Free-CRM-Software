@@ -36,6 +36,7 @@
   - [Monica](#monica)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+- [Star History](#-star-history)
 
 ---
 
@@ -202,6 +203,12 @@ Contributions are welcome! If you know of a free or open-source CRM that should 
 - Why it stands out
 
 Please ensure the project is actively maintained (releases within the last 12 months) and genuinely free or open-source.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Free-CRM-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Free-CRM-Software&type=date&legend=top-left)
 
 ---
 
